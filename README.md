@@ -1,3 +1,4 @@
+![image](https://github.com/peedrito/FiAPI/assets/143858757/54851c40-9439-449d-9e0e-6bb7396f7a9e)
 
 # Financial Banking System (API REST);
 
